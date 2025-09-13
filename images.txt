@@ -4,6 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-jupyter/base-notebook:latest
-支持指定架构
---platform=linux/arm64 jupyter/base-notebook:latest
+--platform=linux/amd64 pytorch/pytorch:2.4.0-cuda12.4-cudnn9-runtime
