@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #--platform=linux/amd64 pytorch/pytorch:2.4.0-cuda12.4-cudnn9-runtime
---platform=linux/amd64 docker.io/pytorch/pytorch:2.6.0-cuda12.4-cudnn9-runtime
+--platform=linux/amd64 docker.io/jupyterhub/jupyterhub
